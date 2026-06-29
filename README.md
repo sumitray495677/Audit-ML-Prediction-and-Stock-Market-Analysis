@@ -115,6 +115,4 @@ R² Score: <value>
 - [ ] Add documentation for `SEQ_LEN` and feature selection used in preprocessing
 - [ ] Implement future-value forecasting logic in `Stock_Future_value.py`
 
-## 📜 License
 
-Add your preferred license here (e.g., MIT).
